@@ -1,6 +1,6 @@
 Data source: http://www.kemik.yildiz.edu.tr/veri_kumelerimiz.html
 
-2500 köse yazisi	50 köse yazarina ait 50'ser köse yazisi
+2500 köse yazisi verikümesi:  50 köse yazarina ait 50'ser köse yazisi
 
 Verisetinden 5 kadın 5 erkek yazar seçilerek, her birinden 50' şer köşe yazısı olmak üzere 500 köşe yazısı içeren alt veri kümesi oluşturulmuştur.
 
