@@ -6,7 +6,7 @@ Verisetinden 5 kadın 5 erkek yazar seçilerek, her birinden 50' şer köşe yaz
 
 Seçilen yazarlar 
 
-![](image/yazarlar.png)
+![](images/yazarlar.png)
 
 Otomatik cinsiyet tahmini sosyal medya platformlarının yoğun olarak kullanıldığı çağımızda rağbet görmeye başlamıştır. Cinsiyet, sosyal etkileşimde temel bir rol oynamakla birlikte, erişim kontrolü, insan-bilgisayar etkileşimi, kanun yaptırımı ve pazarlama zekası gibi akıllı uygulamalarda önemli bir görev görmektedir. Bu çalışmada, mevcut veri setlerinde cinsiyetleri bilinen kadın ve erkek yazarlara ait 2500 köşe yazıları veri seti kullanılmıştır. Veri Seti doğal dil işleme teknikleri ile ön işlemden geçirilmiş Bag of Words ve TF-IDF yöntemleri ile vektörleştirilmiştir. Vektörleştirilen veri eğitim ve test olarak ayrılmış ve eğitim verisi çeşitli algoritmalarla eğitilmiştir. Eğitim sonrası model geliştirilmiş ve model test verisine uygulanarak doğruluk değeri ve hata matrisleri elde edilmiştir. 
 
@@ -14,12 +14,12 @@ Otomatik cinsiyet tahmini sosyal medya platformlarının yoğun olarak kullanıl
 
 Accuracy grafiği
 
-![](image/accuracy.png)
+![](images/accuracy.png)
 
 Wordcloud cinsiyet:kadın
 
-![](image/wordkadin_i.png)
+![](images/wordkadin_i.png)
 
 Wordcloud cinsiyet:erkek
 
-![](image/worderkek.png)
+![](images/worderkek.png)
